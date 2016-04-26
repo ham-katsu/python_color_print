@@ -1,0 +1,2 @@
+# python_color_print
+pythonでコンソールをカラフルにチョーかわいく
