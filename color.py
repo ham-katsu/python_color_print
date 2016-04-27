@@ -37,16 +37,16 @@ def printc(st, col = 'wh', nl = True):
         output += "\033[1;33m"
 
     elif code == 6:
-        output += "\033[1;34mm"
+        output += "\033[1;34m"
 
     elif code == 7:
-        output += "\033[1;35mm"
+        output += "\033[1;35m"
 
     elif code == 8:
-        output += "\033[1;36mm"
+        output += "\033[1;36m"
 
     elif code == 9:
-        output += "\033[1;32mm"
+        output += "\033[1;32m"
 
 
     elif code == 11:
