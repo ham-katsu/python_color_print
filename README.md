@@ -4,6 +4,8 @@ pythonでコンソールをカラフルにチョーかわいく
 ##使い方
 普通にインポートしてください．
 
+from color import printc
+
 printc(st=表示させる文字列,
 
   col = カラーネーム（先頭Hでハイライトになります．例えばHredとか），
