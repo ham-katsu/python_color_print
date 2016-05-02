@@ -3,8 +3,12 @@ pythonでコンソールをカラフルにチョーかわいく
 
 ##使い方
 普通にインポートしてください．
+書いているプログラムと同じ場所にcolor.pyをおけばおｋ
 
-from color import printc
+あとはおまじない
+`from color import printc`
+
+
 
 printc(st=表示させる文字列,
 
